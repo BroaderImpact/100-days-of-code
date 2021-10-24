@@ -4,6 +4,10 @@
 
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
+* [Algorithms](alg/README.md)
+    * [Search](alg/search/README.md)
+    * [Sort](alg/sort/README.md)
+    * [String](alg/string/README.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
