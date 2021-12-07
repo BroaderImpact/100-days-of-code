@@ -100,8 +100,6 @@
 **Link to work:** [Calculator App](http://www.example.com) -->
 
 
-
-
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
