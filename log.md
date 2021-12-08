@@ -3,12 +3,13 @@
 ### Day 1: October 21, 2021
 ##### Beginning the Journey
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Exploratory Data Analysis
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Today I explored the iterative process of exploratoy data analysis. Here I search for answers by visualizing, transforming, and modelling data. This is a single iteration, but many more questions remain.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Exploratory Data Analysis](http://www.example.com)
 
+<!--
 ### Day 2: October 22, 2021
 ##### On the Road
 
@@ -72,7 +73,7 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-<!-- ### Day 8: October 29, 2021
+### Day 8: October 29, 2021
 ##### lalkasjdflkjsdf
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
@@ -97,8 +98,80 @@
 
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
+**Link to work:** [Calculator App](http://www.example.com) 
+
+### Day 11: November 1, 2021
+##### All Saint's Day
+
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+
+**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link to work:** [Calculator App](http://www.example.com) 
+
+### Day 12: November 2, 2021
+##### Work in Progress
+
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+
+**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link to work:** [Calculator App](http://www.example.com) 
+
+### Day 13: November 3, 2021
+##### Work in Progress
+
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+
+**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link to work:** [Calculator App](http://www.example.com) 
+
+### Day 14: November 4, 2021
+##### Work in Progress
+
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+
+**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link to work:** [Calculator App](http://www.example.com) 
+
+### Day 15: November 5, 2021
+##### Work in Progress
+
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+
+**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link to work:** [Calculator App](http://www.example.com)
+
+### Day 49: December 8, 2021
+##### Work in Progress
+
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+
+**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
 **Link to work:** [Calculator App](http://www.example.com) -->
 
+<!--
+### Day 99: January 27, 2022
+##### Work in Progress
+
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+
+**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link to work:** [Calculator App](http://www.example.com) 
+
+### Day 100: January 28, 2022
+##### Work in Progress
+
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+
+**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link to work:** [Calculator App](http://www.example.com) -->
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
