@@ -12,3 +12,7 @@ Started a Weather App. Worked on the draft layout of the app, struggled with Ope
 -->
 ### R2D10
 Decided to try my hand at the reviled spiral chart from this [New York Times Opinion piece](https://www.nytimes.com/2022/01/06/opinion/omicron-covid-us.html).
+
+[![Worst or best data visualization? You decide](/Users/christineamuzie/Documents/GitHub/100-days-of-code/img/spiral-graph.png "Spiral Graph of COVID-19 Cases, United States")](https://www.nytimes.com/2022/01/06/opinion/omicron-covid-us.html)
+
+I'm hoping I did it justice in R. Special thanks to [Zuguang Gu](https://github.com/jokergoo) for the spiralize package that made this possible.
