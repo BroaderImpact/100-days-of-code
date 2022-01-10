@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 2 - [@BroaderImpact]
+# #100DaysOfCode Log - Round 2 - [@BroaderImpact](https://twitter.com/BroaderImpact)
 
 The log of my #100DaysOfCode challenge. Started on [Saturday, January 1, 2022].
 
